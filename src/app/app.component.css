@@ -1,0 +1,33 @@
+.blueOne{
+    height: 400px;
+    width: 300px;
+    background-color: blue;
+    margin-left: 70px;
+    margin: 10px;
+
+}
+
+.blueOne,h6{
+    
+    text-align: center;
+    color: white;
+
+}
+
+.blueTwo{
+    height: 400px;
+    width: 300px;
+    background-color: blue;
+    margin: 10px;
+    margin-left: 70px;
+    text-align: center;
+    color: white;
+}
+
+.blueThree{
+    height: 400px;
+    width: 300px;
+    background-color: blue;
+    margin: 10px;
+    margin-left: 70px;
+}
